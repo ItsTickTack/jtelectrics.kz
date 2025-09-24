@@ -327,8 +327,7 @@ body {
 }
 .service-card:hover .service-media { transform: scale(1.05); }
 .service-media.media-2 { background: var(--brand-light) url('img/photo1672991166_edited\ \(1\).webp') center/cover no-repeat; }
-.service-media.media-3 { background: var(--brand-light) url('/index.html/css/styles.css
-/img/photo.webp') center/cover no-repeat; }
+.service-media.media-3 { background: var(--brand-light) url('img/photo.webp') center/cover no-repeat; }
 .service-media.media-4 { background: var(--brand-light) url('img/______________1_.webp') center/cover no-repeat; }
 .service-body { 
   padding: 32px; 
